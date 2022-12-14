@@ -1,0 +1,4 @@
+github.com/pemoreau/advent-of-code/go v0.0.0-20221214114510-3139c75dd4da h1:mQYT2b+uxYXp+9PzYd/ufW0IhbzOxsicSHS09NzR4JA=
+github.com/pemoreau/advent-of-code/go v0.0.0-20221214114510-3139c75dd4da/go.mod h1:Tn9y/jeo8XfPGKbMprblaMWmp2WT6R+ftf/Bqt0g9+w=
+golang.org/x/exp v0.0.0-20221111204811-129d8d6c17ab h1:1S7USr8/C0Sgk4egxq4zZ07zYt2Xh1IiFp8hUMXH/us=
+golang.org/x/exp v0.0.0-20221111204811-129d8d6c17ab/go.mod h1:CxIveKay+FTh1D0yPZemJVgC/95VzuuOLq5Qi4xnoYc=
